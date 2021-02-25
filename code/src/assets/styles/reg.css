@@ -1,0 +1,37 @@
+.h1{
+    background-color: red;
+    padding: 0.1rem;
+  
+    font-size: 0.25rem;
+    margin-bottom: 0.05rem;
+  }
+   .h1>span{
+    text-align: center;
+  padding-left: 0.3rem;
+  } 
+  .h1>>>.h2{
+    float: left;
+  }
+  .h1>.h3{
+    color: orange;
+    float: right;
+    font-size: 0.15rem;
+    padding-top: 0.05rem;
+    color: black;
+  }
+  /* .i1>.i2{
+    border: 0.02rem solid grey;
+    border-radius: 0.2rem;
+  }
+  .i1>.i3{
+    border: 0.02rem solid grey;
+    border-radius: 0.2rem;
+  }
+  .i1>.i4{
+    border: 0.02rem solid grey;
+    border-radius: 0.2rem;
+  }
+  .dbtn1>.dbtn2{
+    border: 0.02rem solid grey;
+    border-radius: 0.2rem;
+  } */
